@@ -6,7 +6,7 @@
   "author": "Genshin-Wiki(RealHeart)",
   "license": "GPL-3.0-only",
   "scripts": {
-    "start": "http-server public -p 8849"
+    "start": "http-server -p 8849"
   },
   "dependencies": {
     "http-server": "^0.12.3"
