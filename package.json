@@ -1,0 +1,14 @@
+{
+  "name": "genshin-wiki-static",
+  "version": "1.0.0",
+  "description": "Genshin Wiki Static Assets",
+  "repository": "https://github.com/Genshin-Wiki/Genshin-Wiki",
+  "author": "Genshin-Wiki(RealHeart)",
+  "license": "GPL-3.0-only",
+  "scripts": {
+    "start": "http-server public -p 8849"
+  },
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
